@@ -1,16 +1,15 @@
-### Hi there 👋
+### hello gamer/programmer
+
+im on discord at KidOfCubes#4867 and have a gmail with same name
+
+
+i do c#, java, js and python
+
+i also make unity games, minecraft plugins and mods, and the occasional winforms app and discord bot
+
+
+working on unity tc3 port, notbattleshipcraft, a rpg mc plugin, and learning bout game dev
 
 <!--
-**KidOfCubes/KidOfCubes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+stalking kinda sus ngl
 -->
