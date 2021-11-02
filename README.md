@@ -1,6 +1,8 @@
-### hello gamer/programmer
+### hello gamer
 
-im on discord at KidOfCubes#4867 and have a gmail with same name
+i am child who is bad at programming
+
+i have discord: KidOfCubes#4867
 
 
 i do c#, java, js and python
